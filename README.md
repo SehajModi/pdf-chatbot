@@ -1,4 +1,4 @@
-<img width="847" height="854" alt="image" src="https://github.com/user-attachments/assets/681ad501-8936-47a6-80f7-7e5b2d6a4551" /># 📄 PDF Chatbot (RAG-based)
+# 📄 PDF Chatbot (RAG-based)
 
 A streamlined Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions based on their content. This project uses **Groq** for lightning-fast inference and **ChromaDB** as a vector store to provide context-aware answers.
 
